@@ -30,90 +30,49 @@ public class Task_2_8 {
 
         } catch (IOException e) {
             e.printStackTrace();
-        } finally {
-
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       /* try {
-            Throwable t = new RuntimeException();
-            throw t;
-
-
-
-
-        } catch (RuntimeException e) {
-            System.out.println(" run ");
-
-
-        }catch (Throwable h){
-            System.out.println("Throwable");
-        }
-
-
-        try {
-            System.err.print(" 0");
-            try {
-                System.err.print(" 1");
-                // НИЧЕГО
-                System.err.print(" 2");
-            } catch (RuntimeException e) {
-                System.err.print(" 3"); // НЕ заходим - нет исключения
-            } finally {
-                System.err.print(" 4"); // заходим всегда
-            }
-            System.err.print(" 5");     // заходим - выполнение в норме
-        } catch (Exception e) {
-            System.err.print(" 6");     // НЕ заходим - нет исключения
-        } finally {
-            System.err.print(" 7");     // заходим всегда
-        }
-        System.err.print(" 8");         // заходим - выполнение в норме
-    */
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
